@@ -10,8 +10,8 @@ I am semi-fluent in Python and HTML.
 
 (Don't ask me to code for you)
 
-[![Clxud's github stats](https://github-readme-stats.vercel.app/api?username=cloudwithax&count_private=true&theme=dark&show_icons=true)(https://github.com/anuraghazra/github-readme-stats) 
+[![Clxud's github stats](https://github-readme-stats.vercel.app/api?username=cloudwithax&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwithax)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwithax&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
