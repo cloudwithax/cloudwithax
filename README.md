@@ -6,7 +6,7 @@ My name is Clxud and I code stuff.
 
 The only purpose this profile serves is to host whatever projects I decide to make
 
-I am semi-fluent in Python, Javascript and HTML/CSS
+I am semi-fluent in Python, Java, Lua, Javascript and HTML/CSS
 
 
 
