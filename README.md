@@ -16,4 +16,7 @@ I am semi-fluent in Python, Java, Lua, Javascript and HTML/CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwithax&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
