@@ -19,7 +19,9 @@ I am semi-fluent in Python, Java, Lua, Javascript and HTML/CSS
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   26 mins         █████████████████████████   99.63 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
