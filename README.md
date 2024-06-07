@@ -1,6 +1,4 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://r2.guns.lol/c15f97ce-705f-46b6-a40d-0313b7645b2c.png');]{x0000}$}
-```
+
 
 # Hi there
 I don't know how you found this, but don't tell the others, shh...
@@ -31,6 +29,11 @@ CSS          17 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8');]{x0000}$}
+
 
 
 
