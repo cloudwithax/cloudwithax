@@ -32,7 +32,7 @@ CSS          17 mins         ▓░░░░░░░░░░░░░░░░
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/cloudwithax/cloudwithax/main/c15f97ce-705f-46b6-a40d-0313b7645b2c');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/cloudwithax/cloudwithax/main/c15f97ce-705f-46b6-a40d-0313b7645b2c.png');]{x0000}$}
 
 
 
