@@ -21,11 +21,11 @@ I am fluent in Python, Typescript, Javascript, Java, Lua, and HTML/CSS
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    17 hrs 7 mins   ███████████████████████▓░   94.88 %
-Prisma        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-JavaScript    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Python        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Bash          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+TypeScript    15 hrs 3 mins   ███████████████████████▒░   93.31 %
+JavaScript    26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Prisma        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Python        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Bash          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
