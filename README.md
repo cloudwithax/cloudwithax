@@ -22,7 +22,7 @@ I am fluent in Python, Typescript, Javascript, Java, Lua, and HTML/CSS
 
 ```txt
 Python       2 hrs 2 mins    █████████████████░░░░░░░░   67.83 %
-TypeScript   36 mins         █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+TypeScript   36 mins         █████░░░░░░░░░░░░░░░░░░░░   20.27 %
 Other        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
 Prisma       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
 JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
